@@ -12,7 +12,7 @@ let content = {
 		{
 			"company": "Atos Syntel",
 			"role": "Consultant",
-			"duration": "March 2018 - till date",
+			"duration": "Mar 2018 - till date",
 			"description": "Developingfeature modules for CYBG's banking application named as Be On Web.",
 			"responsibilities": [
 				"Developed a feature of re-ordering the accounts of the customer displayed on home page, using Flux and React.",
@@ -25,7 +25,7 @@ let content = {
 		{
 			"company": "DB Xento Systems",
 			"role": "Sr. UI Developer",
-			"duration": "Dec 2013 – March 2018",
+			"duration": "Dec 2013 – Mar 2018",
 			"description": "Making responsive website templates for the product ‘Marketing Templates’, fixing bugs using Javascript and CSS.",
 			"responsibilities": [
 				"Played an important role and mentored in the conversion of existing static websites to responsive ones.",
@@ -55,7 +55,7 @@ let content = {
 		{
 			"company": "Pipal Web Design and Solutions.",
 			"role": "Web Developer",
-			"duration": "Feb 2012 – to Feb 2013",
+			"duration": "Feb 2012 – Feb 2013",
 			"description": "Worked on the on-going projects. HTML and CSS, Photoshop, Dreamweaver. Worked on slicing the images and making E-mailers. Made workflow of Project Management System in PlugCRM.",
 			"responsibilities": [
 				"Worked on 20+ websites related to property management in Pune.",
@@ -67,7 +67,7 @@ let content = {
 		{
 			"company": "Apex Innovations Private Limited, Kupwad MIDC, Sangli",
 			"role": "Web Developer",
-			"duration": "SEP 2010 – AUG 2011",
+			"duration": "Sep 2010 – Aug 2011",
 			"description": "LucidBit Technologies is one of the emerging parts of Apex Innovations. The main aim was to promote the product ICEngineSoft. It provided customers to be a User at website and download the manual and product upgrades.",
 			"responsibilities": [
 				"Presented designs and concepts to the Management for review.",
